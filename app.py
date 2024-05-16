@@ -2,6 +2,7 @@ import streamlit as st
 import string
 import pickle
 import webbrowser
+from sklearn import *
 
 global Lrdetect_Model
 
